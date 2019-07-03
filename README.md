@@ -18,7 +18,7 @@ User has files on computer:
 
 The Cryptolocker app encrypts files so they are no longer accessible:
 
-<img src="screenshots/02.png" />
+<img src="screenshots/02a.png" />
 
 To decrypt, user must pay money (fake money, of course!)
 
