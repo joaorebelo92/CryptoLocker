@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CryptoLocker_SI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="keyPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">key\</Value>
+    </Setting>
+    <Setting Name="folderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">teste\</Value>
+    </Setting>
+    <Setting Name="files" Type="System.String" Scope="User">
+      <Value Profile="(Default)">files.txt</Value>
+    </Setting>
+    <Setting Name="encriptedKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">encriptedKey.txt</Value>
+    </Setting>
+    <Setting Name="masterKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">masterKey.txt</Value>
+    </Setting>
+    <Setting Name="listFilesEncripted" Type="System.String" Scope="User">
+      <Value Profile="(Default)">listFilesEncripted.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
